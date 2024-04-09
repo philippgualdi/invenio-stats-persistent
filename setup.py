@@ -6,7 +6,7 @@
 # modify it under the terms of the MIT License; see LICENSE file for more
 # details.
 
-"""Invenio module for collecting statistics for Tu Graz.."""
+"""Invenio module for collecting statistics for TU Graz."""
 
 from setuptools import setup
 

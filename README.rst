@@ -21,7 +21,7 @@
 .. image:: https://img.shields.io/github/license/tu-graz-library/invenio-stats-tugraz.svg
         :target: https://github.com/tu-graz-library/invenio-stats-tugraz/blob/master/LICENSE
 
-Invenio module for collecting statistics for Tu Graz.
+Invenio module for collecting statistics for TU Graz.
 
 TODO: Please provide feature overview of module
 

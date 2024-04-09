@@ -13,7 +13,7 @@
 from flask import current_app
 from werkzeug.local import LocalProxy
 
-current_statistics_tugraz = LocalProxy(
+current_stats_tugraz = LocalProxy(
     lambda: current_app.extensions["invenio-stats-tugraz"]
 )
 """Helper proxy to get the current tugraz statistics extension."""

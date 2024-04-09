@@ -105,7 +105,7 @@ todo_include_todos = False
 html_theme = "alabaster"
 
 html_theme_options = {
-    "description": "Invenio module for collecting statistics for Tu Graz.",
+    "description": "Invenio module for collecting statistics for TU Graz.",
     "github_user": "inveniosoftware",
     "github_repo": "invenio-stats-tugraz",
     "github_button": False,
@@ -299,7 +299,7 @@ texinfo_documents = [
         "invenio-stats-tugraz Documentation",
         author,
         "invenio-stats-tugraz",
-        "Invenio module for collecting statistics for Tu Graz.",
+        "Invenio module for collecting statistics for TU Graz.",
         "Miscellaneous",
     ),
 ]

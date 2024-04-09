@@ -8,7 +8,7 @@
 Authors
 =======
 
-Invenio module for collecting statistics for Tu Graz.
+Invenio module for collecting statistics for TU Graz.
 
 - Graz University of Technology <>
 - Philipp Gualdi
